@@ -1,7 +1,13 @@
 * {
-    font-family: arial;
+    font-family: "Lato", Arial, sans-serif;
 }
 
 body {
-    background-color: antiquewhite;
+    background-color: rgb(255, 246, 235);
+    text-align: center;
+}
+
+.title-welcome {
+    font-weight: 800;
+    margin-top: 35px;
 }
